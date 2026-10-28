@@ -4,9 +4,9 @@
   "launcher": {
     "version": "2.0.0",
     "url": "https://github.com/awkdkawdkawk/politdynasty-content/releases/download/v2.0.0/POLITDYNASTY-Setup-2.0.0.exe",
-    "sha256": "efca09322717b98401800264c7ff1a053378cf72c5f6a2f50ef9b6b8b9b8a88d",
+    "sha256": "f5e7ea4a4b502f8cae445422f435e385e07838d5fdea156a6eb7078096fcf6ea",
     "notes": "Текущая стабильная версия лаунчера.",
-    "sizeBytes": 96401044
+    "sizeBytes": 96416161
   },
   "news": [
     {
