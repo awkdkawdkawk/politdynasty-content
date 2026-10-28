@@ -28,26 +28,11 @@
       "text": "Новый сезон уже стартовал на игровом сервере: города, выборы, войны и дипломатия. Присоединяйся к битве, сезон длится до следующего обновления. Награды за участие - только лучшие получат их."
     }
   ],
-  "mods": [
-    {
-      "id": "pd-season-banner",
-      "name": "Season Banner",
-      "version": "1.0.0",
-      "description": "Баннер текущего сезона на спавне: отсчёт до открытия и статус записи.",
-      "gameVersion": "1.21.1",
-      "url": "https://raw.githubusercontent.com/awkdkawdkawk/politdynasty-content/main/mods/pd-season-banner-1.0.0.jar",
-      "sha256": "9ab4d330da91060f15069998adbc7dc38d5321ce1c24fa9c530ad8b3c59b83fe",
-      "sizeBytes": 418
-    },
-    {
-      "id": "pd-chat-extension",
-      "name": "Chat Extension",
-      "version": "1.2.0",
-      "description": "Политический чат: каналы партий, городов и дипломатический канал.",
-      "gameVersion": "1.21.1",
-      "url": "https://raw.githubusercontent.com/awkdkawdkawk/politdynasty-content/main/mods/pd-chat-extension-1.2.0.jar",
-      "sha256": "62b837a789ada8b4c3c95696f4214965410b016810be80e5372278ab05d86f4c",
-      "sizeBytes": 420
-    }
-  ]
+  "mods": [],
+  "modpack": {
+    "version": "1.0.0",
+    "url": "https://github.com/awkdkawdkawk/politdynasty-content/releases/download/v3.0.0/client-content.zip",
+    "sha256": "b3a98ba01b4880b361019347047f7596546ba6a4241549bfe36103d9582a004c",
+    "sizeBytes": 235110000
+  }
 }
