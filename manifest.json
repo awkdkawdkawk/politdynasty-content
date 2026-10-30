@@ -3,7 +3,7 @@
   "generatedAt": "2026-10-28",
   "launcher": {
     "version": "2.0.0",
-    "url": "https://github.com/awkdkawdkawk/politdynasty-content/releases/download/v2.0.0/POLITDYNASTY-Setup-2.0.0.exe",
+    "url": "https://github.com/awkdkawdkawk/pd-store-v6n43q/releases/download/v2.0.0/POLITDYNASTY-Setup-2.0.0.exe",
     "sha256": "311c31bfed61773a9d46e28592568145cad00b2b6452b10b08aaa4910ed9f899",
     "notes": "Текущая стабильная версия лаунчера.",
     "sizeBytes": 99767394
@@ -31,8 +31,13 @@
   "mods": [],
   "modpack": {
     "version": "1.0.0",
-    "url": "https://github.com/awkdkawdkawk/politdynasty-content/releases/download/v3.0.0/client-content.zip",
+    "url": "https://github.com/awkdkawdkawk/pd-store-v6n43q/releases/download/v3.0.0/client-content.enc",
     "sha256": "b3a98ba01b4880b361019347047f7596546ba6a4241549bfe36103d9582a004c",
-    "sizeBytes": 235110000
+    "sizeBytes": 235110000,
+    "enc": {
+      "url": "https://github.com/awkdkawdkawk/pd-store-v6n43q/releases/download/v3.0.0/client-content.enc",
+      "sha256": "10b14054eaa0bca408ce1d3d1edf53f789bde0bd8e981b47465f543651c9a58b",
+      "sizeBytes": 235110037
+    }
   }
 }
